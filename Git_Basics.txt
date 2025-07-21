@@ -1,0 +1,80 @@
+Frontend Frameworks: (Date: 14/07/2025)
+--------------------
+Dr.Md.Gouse
+Room no: R610
+
+CO1 : Git and version control systems, introduction to HTML/CSS 
+CO2 : HTML5, CSS3 and Javascript
+CO3 : Fundamentals of React, UI Development
+CO4 : Advanced concepts of React, Testing and Backend development using Nodejs/Express
+
+
+Version control systems:
+-> They divided into 3 types
+1. Local VCS  - 
+2. Central VCS - Git
+3. Remote VCS - GitHub, GitLab, BitBucket
+
+2400080181 - B.Tech(AI&DS)  -- present
+
+Git-workflow:
+------------
+Working directory -> staging area -> local repository -> remote repository
+
+url to join into telegram:
+---------------------------
+https://tinyurl.com/Y24-SEC103
+
+git configuration with username and email:
+-----------------------------------------
+to check already existed configuration:
+-> git config --list
+
+
+set the username:
+git config --global user.name "githubusername"
+git config --global user.email "githubemail"
+
+1) git initialization: (Git creates an empty repository)
+  command needed:
+    working_directory:\>git init
+2) check the git status (to know about untracked/unstaged files available in working directory)
+   command needed:
+    working_directory:\>git status
+3) adding untracked files to the staging area:
+    command needed:
+     working_directory:\>git add .  (for adding all the files available in working directory)
+     working_directory:\>git add <file_name>  (for adding specific files)
+4) committing files to the local repository from staging area:
+      command needed:
+       working_directory:\>git commit -m "commit_message"
+     here m denoes message.
+5) to check log of all commits:
+       command needed:
+         working_directory:\>git log --oneline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
